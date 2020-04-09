@@ -1,6 +1,7 @@
 package com.coolweather.android.util;
 
-import com.bumptech.glide.request.Request;
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
 
 public class HttpUtil {
     // 使用OkHttp创建一个访问服务区数据的工具类
