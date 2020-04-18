@@ -26,5 +26,4 @@ public class Forecast {
         public String info;//预测的天气信息
 
     }
-
 }

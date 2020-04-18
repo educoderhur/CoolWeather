@@ -32,5 +32,4 @@ public class Suggestion {
         public String info;
 
     }
-
 }
